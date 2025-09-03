@@ -187,6 +187,9 @@ mov [2006h],ax
 
 ret
 
+
+
+
 ## output:
 
 <img width="1885" height="1077" alt="Screenshot 2025-08-19 093820" src="https://github.com/user-attachments/assets/9ad6fae1-89c8-4d2c-9806-4c30fb5d84f9" />
